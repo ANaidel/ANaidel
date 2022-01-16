@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ANaidel
+- 👋 Hi, I’m Ashley Naidel
 - 👀 I’m interested in ...cardiology, orthopedics, and radiology
 - 🌱 I’m currently learning ...Biomedical Engineering at the University of Florida
 - 📫 How to reach me ...ashleynaidel@gmail.com
